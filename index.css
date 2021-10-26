@@ -399,3 +399,21 @@ body{
       font-size: 18px;
   }
 }
+/* SECTIOM-2 */
+
+/* FOOTER */
+.section-3-1{
+  display: flex;
+  justify-content: center;
+}
+.section-3-2{
+  text-align: center;
+  font-size: 14px;
+  line-height: 21px;
+  color: #21243D;
+  padding-top: 20px;
+  padding-right: 20px;
+}
+.section-3-1a{
+  margin-right: 20px;
+}
