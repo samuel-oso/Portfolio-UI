@@ -16,10 +16,24 @@
     <!-- NAVBAR -->
     <nav class="container-fluid">
       <div id="navbar">
-        <img src="images/menu.svg" alt="menu" id="menu-icon">
+        <input class="hidden" type="checkbox" id="checkbox-menu"/>
+          <label
+            for="checkbox-menu"
+            class="btn-menu"
+            role="button"
+            tabindex="0"
+            aria-label="Toggle Menu">
+          </label>
+          <div class="menu-container">
+            <ul class="menu">
+              <li><a href="work.html">Works</a></li>
+              <li><a href="Blog.html">Blog</a></li>
+              <li><a href="#">Contact</a></li>
+            </ul>
+          </div>
         <div id="menu-links">
-          <a class="mr-7" href="work.html">Works</a>
-          <a class="mr-8" href="blog.html">Blog</a>
+          <a class="mr-4" href="work.html">Works</a>
+          <a class="mr-6" href="blog.html">Blog</a>
           <p class="mr-4">Contact</p>
         </div>
       </div>
