@@ -101,6 +101,16 @@ body{
     text-align: right;
     color: #000000;
   }
+  .mr-6{
+    margin-right: 40px;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: right;
+    color: #000000;
+  }
   #menu-icon{
     display: none;
   }
@@ -300,7 +310,15 @@ body{
 /* SECTION-1 */
 
 
-/* SECTIOM-2 */
+/* SECTION-2 */
+.mr-5{
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 23px;
+  line-height: 30px;
+  color: #21243D;
+  font-weight: bold;
+}
 .section-2-1{
   padding-top: 30px;
 }
@@ -318,6 +336,7 @@ body{
   font-size: 23px;
   line-height: 30px;
   color: #21243D;
+  cursor: pointer;
 }
 .section-2-b{
   display: flex;
@@ -399,7 +418,7 @@ body{
       font-size: 18px;
   }
 }
-/* SECTIOM-2 */
+/* SECTION-2 */
 
 /* FOOTER */
 .section-3-1{
@@ -417,3 +436,4 @@ body{
 .section-3-1a{
   margin-right: 20px;
 }
+/* FOOTER */
