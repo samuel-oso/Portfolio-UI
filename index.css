@@ -323,7 +323,7 @@ body{
 .section-1-sub{
   display: flex;
   justify-content: space-between;
-  padding-right: 50px;
+  padding-right: 80px;
   font-size: 15px;
   line-height: 23px;
   color: #21243D;
